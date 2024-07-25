@@ -14,7 +14,7 @@ import { LogLevel } from "@azure/msal-browser";
 export const msalConfig = {
     auth: {
         clientId: "a4f1d8f5-07d6-4383-a8ae-1c789b5bd5b4",
-        authority: "https://login.microsoftonline.com/bhuvigoyal2gmail.onmicrosoft.com",
+        authority: "https://login.microsoftonline.com/common",
         redirectUri: "https://micro-login.vercel.app/",
     },
     cache: {
